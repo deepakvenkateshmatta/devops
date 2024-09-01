@@ -1,9 +1,12 @@
- this is atest  file
-
-adding line two
+adding line one
 
 
-adding line 3
+1
 
+<<<<<<< HEAD
 adding fourth line to make conflit
 
+=======
+
+adding new line
+>>>>>>> refs/remotes/origin/main
